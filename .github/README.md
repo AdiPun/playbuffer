@@ -1,13 +1,17 @@
 ## Completed tutorial
 Hello! Here is my completed tutorial of SumoDigital's PlayBuffer tutorial.
-It was a fantastic learning resource that teaches you C++, how to use their amazing framework to make 2D games and game design.
-I entered this project knowing python and learning C++ with this resource was very accessible.
+It was a fantastic learning resource that teaches you C++, and how to use their amazing framework to make 2D games.
+I entered this project knowing Python and learning C++ with this resource was very accessible.
 
 ## Created games
-1. Playbuffer tutorial: Created a 2D shoot-em-up arcade game where you control a spider called Agent8. Move up and down with
-the arrow keys, press spacebar to shoot the spanners and screwdrivers that are being blown towards you by a very powerful fan. Collect coins for points!
+### Each of these games has its own branch. 
+### You can select a different branch from the dropdown in the top left corner of the main project page (where it currently says HelloWorld).
+### 1. HelloWorld: 
+Created a 2D shoot-em-up arcade game where you control a spider called Agent8. Move up and down with
+the arrow keys, and press the spacebar to shoot the spanners and screwdrivers that are being blown toward you by a very powerful fan. Collect coins for points!
 
-2. SkyHighSpy: Following the [Sumo Digital and SWICS youtube tutorial](https://www.youtube.com/watch?v=XDCN9lRVz3A), Created a 2D asteroids game where you control the angle of a rocket with the left and right arrow keys, accelerate with the up arrow key and decelerate with the down arrow key. Shoot your laser with spacebar to destroy asteriods and collect the gems inside!
+### 2. SkyHighSpy: 
+Following the [Sumo Digital and SWICS youtube tutorial](https://www.youtube.com/watch?v=XDCN9lRVz3A), Created a 2D asteroids game where you control the angle of a rocket with the left and right arrow keys, accelerate with the up arrow key and decelerate with the down arrow key. Shoot your laser with the spacebar to destroy asteroids and collect the gems inside!
 
 ![](/.github/images/playbuffer_title.png)
 ## A single-header C++ library for making simple 2D games 
