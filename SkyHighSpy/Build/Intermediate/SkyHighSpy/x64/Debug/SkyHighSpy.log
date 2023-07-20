@@ -1,0 +1,8 @@
+﻿  Editable.cpp
+  Source.cpp
+C:\Users\aditt\Documents\Coding\playbuffer-SkyHighSpy\SkyHighSpy\Editable.cpp(47,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aditt\Documents\Coding\playbuffer-SkyHighSpy\SkyHighSpy\Editable.cpp(52,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aditt\Documents\Coding\playbuffer-SkyHighSpy\SkyHighSpy\Editable.cpp(65,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aditt\Documents\Coding\playbuffer-SkyHighSpy\SkyHighSpy\Editable.cpp(71,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aditt\Documents\Coding\playbuffer-SkyHighSpy\SkyHighSpy\Editable.cpp(75,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SkyHighSpy.vcxproj -> C:\Users\aditt\Documents\Coding\playbuffer-SkyHighSpy\SkyHighSpy\Build\x64\Debug\SkyHighSpy.exe
