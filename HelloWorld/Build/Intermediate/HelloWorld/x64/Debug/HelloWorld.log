@@ -1,0 +1,3 @@
+﻿  MainGame.cpp
+C:\Users\aditt\Documents\Coding\Playbuffer\playbuffer-HelloWorld\HelloWorld\MainGame.cpp(93,27): warning C4100: 'elapsedTime': unreferenced formal parameter
+  HelloWorld.vcxproj -> C:\Users\aditt\Documents\Coding\Playbuffer\playbuffer-HelloWorld\HelloWorld\Build\x64\Debug\HelloWorld.exe
