@@ -1,3 +1,8 @@
+## Completed tutorial
+Hello! Here is my completed tutorial of SumoDigital's PlayBuffer tutorial.
+It was a fantastic learning resource that teaches you C++, how to use their amazing framework to make 2D games and game design.
+I entered this project knowing python and learning C++ with this resource was very accessible.
+
 
 ![](/.github/images/playbuffer_title.png)
 ## A single-header C++ library for making simple 2D games 
